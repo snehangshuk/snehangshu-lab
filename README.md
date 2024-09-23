@@ -12,6 +12,7 @@ $ mv mychart-0.1.0.tgz docs
 $ helm repo index docs --url https://technosophos.github.com/tscharts
 $ git add -i
 $ git commit -av
-$ git push origin main```
+$ git push origin main
+```
 
 From there, I can do a `helm repo add snehangshu-lab https://snehangshuk.github.io/snehangshu-lab`
