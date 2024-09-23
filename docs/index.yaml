@@ -3,7 +3,7 @@ entries:
   buildachart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-23T17:29:31.039666889+05:30"
+    created: "2024-09-23T18:27:29.478024005+05:30"
     description: A Helm chart for Kubernetes
     digest: 9f4aea32df24b7a39eef6d1bd5b8dd1b4c7db52aade7695ebc0fb52c3c9da50a
     name: buildachart
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://snehangshuk.github.io/snehangshu-lab/buildachart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-23T17:29:31.039128486+05:30"
+generated: "2024-09-23T18:27:29.477477584+05:30"
