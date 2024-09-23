@@ -2,7 +2,7 @@
 
 This is an example charts repository.
 
-## How It Works
+## How It Works?
 I set up GitHub Pages to point to the docs folder. From there, I can create and publish docs like this:
 
 ```bash 
